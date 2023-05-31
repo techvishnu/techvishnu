@@ -58,7 +58,7 @@
 #
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 My Journey</h3></summary>
   As a passionate engineering student, my coding journey began with a thirst for knowledge in the vast world of programming. I immersed myself in various aspects, including code, Unix, Linux, and theory. Alongside my studies, I also pursued my interest in video editing and established a tech-focused YouTube channel with over 500 subscribers. Being a Linux enthusiast, I am currently engrossed in the art of ricing and continually honing my skills in data structures and algorithms, C++, and web development. Additionally, I have been exploring the realm of databases, particularly MySQL.
 
 While initially captivated by YouTube Content Creation and the dream of Having Many Subscribers, my passion shifted towards excelling in Btech and Engineering. However, amidst my professional pursuits, I harbored a parallel desire for YouTube content creation.
