@@ -1,19 +1,69 @@
-<h1 align="center">Hi 👋, I'm techvishnu</h1>
-<h3 align="center">Engineering Student</h3>
+# 💻 Technical Vishnu
 
-<p align="left"> <a href="https://twitter.com/vishnu2k04" target="blank"><img src="https://img.shields.io/twitter/follow/vishnu2k04?logo=twitter&style=for-the-badge" alt="vishnu2k04" /></a> </p>
+**`Student (Engineering/Editor)`**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vishnu2k04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishnu2k04" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/techvishnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="techvishnu" height="30" width="40" /></a>
-<a href="https://fb.com/vishnu2k04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vishnu2k04" height="30" width="40" /></a>
-<a href="https://instagram.com/vishnu2ko4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishnu2ko4" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/technicalvishnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="technicalvishnu" height="30" width="40" /></a>
-<a href="https://discord.gg/techvishnu#0509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="techvishnu#0509" height="30" width="40" /></a>
+👋 Hello! I'm a student from India studying engineering with a passion for technology. I'm also a video editor and run a YouTube channel focused on tech, which has amassed 500+ subscribers. On my channel, I cover various topics related to technology, including Linux, and I particularly enjoy working on ricing, the customization of Linux desktop environments. Apart from video editing and content creation, I'm actively working on enhancing my skills in several areas. I'm diving deeper into data structures and algorithms (DSA), learning and practicing C++ programming, and exploring web development. Additionally, I'm getting hands-on experience with databases like MySQL, honing my understanding of data storage and retrieval. I'm enthusiastic about keeping up with the latest advancements in technology and applying my knowledge to create engaging and informative content. Feel free to connect with me and join me on this exciting journey!
+
+  <p align="left">
+  <a href="https://www.youtube.com/c/technicalvishnu?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/technicalvishnu?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+  <a href="https://www.youtube.com/c/technicalvishnu">
+    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/technicalvishnu?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+  <a href="https://github.com/techvishnu?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/techvishnu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/techvishnu?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/techvishnu?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=techvishnu&show_icons=true&locale=en&layout=compact" alt="techvishnu" /></p>
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
+
+#
+
+### 📺 Latest YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Cool Apps for Windows](https://ytcards.demolab.com/?id=r0DhIJECtmk&t=773s&title=Video+1+Title&lang=en&timestamp=1685459704&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=385 "Video 1 Title")](https://www.youtube.com/watch?v=r0DhIJECtmk&t=773s)
+[![Why Incognito?](https://ytcards.demolab.com/?id=pexkR7p6r58&t=29s&title=Video+2+Title&lang=en&timestamp=1684076438&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=484 "Video 2 Title")](https://www.youtube.com/watch?v=pexkR7p6r58&t=29s)
+[![A YouTube Overlay Animation](https://ytcards.demolab.com/?id=KZhmV4fjihY&t=65s&title=Video+3+Title&lang=en&timestamp=1683126008&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=291 "Video 3 Title")](https://www.youtube.com/watch?v=KZhmV4fjihY&t=65s)
+[![MechKeys!!](https://ytcards.demolab.com/?id=asX8m3LQP0k&title=Video+4+Title&lang=en&timestamp=1682002817&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=53 "Video 4 Title")](https://www.youtube.com/watch?v=asX8m3LQP0k)
+[![Windows Screenclipping](https://ytcards.demolab.com/?id=mPg5moN3xqk&t=116s&title=Video+5+Title&lang=en&timestamp=1681909225&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=482 "Video 5 Title")](https://www.youtube.com/watch?v=mPg5moN3xqk&t=116s)
+[![Instagram Animation](https://ytcards.demolab.com/?id=wDfmq7hTA30&title=Video+6+Title&lang=en&timestamp=1681390835&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=756 "Video 6 Title")](https://www.youtube.com/watch?v=wDfmq7hTA30)
+<!-- END YOUTUBE-CARDS -->
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+
+#
+
+### 📊 Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=techvishnu&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=techvishnu&theme=gruvbox&border_radius=4.5) -->
+
+#
+
+<details>
+ <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+  As a passionate engineering student, my coding journey began with a thirst for knowledge in the vast world of programming. I immersed myself in various aspects, including code, Unix, Linux, and theory. Alongside my studies, I also pursued my interest in video editing and established a tech-focused YouTube channel with over 500 subscribers. Being a Linux enthusiast, I am currently engrossed in the art of ricing and continually honing my skills in data structures and algorithms, C++, and web development. Additionally, I have been exploring the realm of databases, particularly MySQL.
+
+While initially captivated by YouTube Content Creation and the dream of Having Many Subscribers, my passion shifted towards excelling in Btech and Engineering. However, amidst my professional pursuits, I harbored a parallel desire for YouTube content creation.
+
+Yet, throughout my journey, there has always been a lingering sense of unease regarding the decision to abandon my btech of building my YouTube Channel. Although stepping into the uncertain realm of being a creator proved fruitful, it gradually became comfortable. It is undeniably easier to create videos rather than venture into the challenging task of developing my own product. Nevertheless, I believe it's time for change. In pursuit of this dream, I am implementing measures to optimize my YouTube content creation process and Education, allowing me to dedicate more time towards fulfilling this long-awaited ambition. These measures will pave the way for me to be fully prepared to tackle this exciting endeavor in 2023, with the groundwork laid from now until the end of 2022. So, don't wait up, because I am determined to make my mark.
+
+[website]: https://technicalvishnu.in
+[youtube]: https://youtube.com/technicalvishnu
