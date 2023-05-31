@@ -45,7 +45,7 @@
 [![Instagram Animation](https://ytcards.demolab.com/?id=wDfmq7hTA30&title=Video+6+Title&lang=en&timestamp=1681390835&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=756 "Instagram Animation")](https://www.youtube.com/watch?v=wDfmq7hTA30)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/technicalvishnu?sub_confirmation=1)
 
 #
 
