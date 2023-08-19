@@ -73,15 +73,6 @@
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/technicalvishnu?sub_confirmation=1)
 
-#
-
-### 📊 Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=techvishnu&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=techvishnu&theme=gruvbox&border_radius=4.5) -->
-
-#
 
 <details>
  <summary><h3>👨‍💻 My Journey</h3></summary>
