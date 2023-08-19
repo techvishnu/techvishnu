@@ -1,38 +1,64 @@
-# 💻 Technical Vishnu
+<!-- START -->
 
-**`Student (Engineering/Editor)`**
+<!-- Profile -->
+<p align="left"><strong><samp>「</samp></strong></p>
+  <p align="center">
+    <samp>
+      <b>
+        Hello There
+      <br>
+        I'm Vishnu, a Student, I like Linux and Gaming, but I don't like Windows and Btech.
+      </b>
+      <br>
+        <image src="https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font&size=14&pause=1000&color=7A95C9&center=true&width=435&lines=Make+it+simple+but+I'm+a+really+complicant+person.">
+      <br>
+      <b>
+         ~ Technical Vishnu ~
+      </b>    </samp>
+  </p>
+<p align="right"><strong><samp>」</samp></strong></p>
+<br>
 
-👋 Hello! I'm a student from India studying engineering with a passion for technology. I'm also a video editor and run a YouTube channel focused on tech, which has amassed 500+ subscribers. On my channel, I cover various topics related to technology, including Linux, and I particularly enjoy working on ricing, the customization of Linux desktop environments. Apart from video editing and content creation, I'm actively working on enhancing my skills in several areas. I'm diving deeper into data structures and algorithms (DSA), learning and practicing C++ programming, and exploring web development. Additionally, I'm getting hands-on experience with databases like MySQL, honing my understanding of data storage and retrieval. I'm enthusiastic about keeping up with the latest advancements in technology and applying my knowledge to create engaging and informative content. Feel free to connect with me and join me on this exciting journey!
-
-<p align="left">
-  <a href="https://www.youtube.com/channel/UC0KyO2JBzcza0ShdkwN3I-g?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC0KyO2JBzcza0ShdkwN3I-g?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://www.youtube.com/channel/UC0KyO2JBzcza0ShdkwN3I-g">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC0KyO2JBzcza0ShdkwN3I-g?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-  <a href="https://github.com/techvishnu?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/techvishnu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/techvishnu?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/techvishnu?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+<!-- contribution snake -->
+<p align="center">
+    <img alt="contribution snake" width="85%" src="https://raw.githubusercontent.com/1amSimp1e/1amSimp1e/544749532955a2438af7a7934a17731aa0ea1b43/github-contribution-grid-snake.svg" />
 </p>
 
+### Languages & Tools 🧰
 
----
 
-### 🧰 Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,react,linux,figma,git,github,neovim,java,c,cpp)]()
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+### 
 
-#
+<details>
+
+<summary><samp><b>&#9776; See more details</b></samp></summary>
+  </summary>
+
+  <!-- Github Trophy -->
+  <div align="center">
+  <table>
+  <tr>
+    
+  <td><a href="#--------"><img align="center" alt="GitHub Trophy" src="https://streak-stats.demolab.com?user=1amSimp1e&theme=nord&hide_border=true&border_radius=20&background=20212C"></a></td>
+  </tr>
+  </table>
+  </div>
+
+  <!-- Github Stats -->
+  <div align="center">
+  <table>
+  <tr>
+  <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=1amSimp1e&count_private=true&show_icons=true&border_radius=20&include_all_commits=true&line_height=21&hide_border=true&bg_color=20212C&text_color=81A1C1&title_color=81A1C1&icon_color=58a6ff"/></a></td>
+  <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1amsimp1e&layout=compact&line_height=21&border_radius=20&hide_border=true&bg_color=20212C&text_color=81A1C1&title_color=81A1C1&icon_color=58a6ff"/></a></td>
+  </tr>
+  </table>
+  </div>
+
+  </details>
+  </div>
+</details>
 
 ### 📺 Latest YouTube Videos
 
