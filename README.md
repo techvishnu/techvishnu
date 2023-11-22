@@ -24,6 +24,15 @@
     <img alt="contribution snake" width="85%" src="https://raw.githubusercontent.com/1amSimp1e/1amSimp1e/544749532955a2438af7a7934a17731aa0ea1b43/github-contribution-grid-snake.svg" />
 </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discordapp.com/users/703561935819636736" target="blank"> <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="70">
+<a href="https://twitter.com/techvishnuyt" target="blank">                  <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="70">
+<a href="https://www.linkedin.com/in/techvishnu/" target="blank">  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70">
+<a href="https://www.facebook.com/techvishnuyt" target="blank">   <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="70">
+<a href="https://www.instagram.com/vishnu2ko4/" target="blank">         <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="70">
+</p>
+
 ### Languages & Tools 🧰
 
 
