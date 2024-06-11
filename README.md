@@ -22,8 +22,6 @@
 ### - Hobbies : 
 - ✨ Gaming Addict
 - ✨ Exploring Linux
-- ✨ Drinking Cofee
-- ✨ Badminton (Neighbourhood Pro XD)
 
 </br>
 </br>
