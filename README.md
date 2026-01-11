@@ -13,8 +13,8 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/techvishnu/)
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:hello@techvishnu.dev)
-  [![Portfolio](https://img.shields.io/badge/Website-techvishnu.dev-black?style=for-the-badge&logo=vercel)](https://techvishnu.dev)
+  [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:hello@goodjobvishnu@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Website-techvishnu.dev-black?style=for-the-badge&logo=vercel)](https://techvishnu.in)
   [![CV](https://img.shields.io/badge/Resume-Download_PDF-darkgreen?style=for-the-badge&logo=adobeacrobat)](./portfolio/cv.pdf)
 
 </div>
