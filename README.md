@@ -1,11 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Vishnu&fontSize=90&fontColor=ffffff&desc=Building%20the%20Future%20with%20Gen%20AI%20%26%20Automation&descAlign=50&descAlignY=51&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Vishnu&fontSize=90&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3366CC&center=true&vCenter=true&width=500&lines=Gen+AI+Developer;ServiceNow+ITSM+Specialist;Python+Automation+Expert;Vibecoding+Enthusiast" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3366CC&center=true&vCenter=true&width=800&lines=Building+the+Future+with+Gen+AI+%26+Automation;ServiceNow+ITSM+Specialist;Python+Automation+Expert;Vibecoding+Enthusiast" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=techvishnu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techvishnu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
 </div>
 
 <br/>
@@ -76,13 +81,10 @@ Currently, I specialize in crafting intelligent systems using **ServiceNow ITSM*
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techvishnu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techvishnu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
-</div>
+![Vishnu's Stats](https://github-readme-stats.vercel.app/api?username=techvishnu&show_icons=true&theme=tokyonight&hide_border=true)
 
-<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techvishnu&layout=compact&theme=tokyonight&hide_border=true)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=techvishnu&style=flat-square&color=blue" alt="profile views"/>
-</div>
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=techvishnu&theme=tokyonight&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=techvishnu&style=flat-square&color=blue)
