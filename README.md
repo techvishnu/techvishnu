@@ -82,9 +82,3 @@ Currently, I specialize in crafting intelligent systems using **ServiceNow ITSM*
 ### 📊 GitHub Stats
 
 ![Vishnu's Stats](https://github-readme-stats.vercel.app/api?username=techvishnu&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techvishnu&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=techvishnu&theme=tokyonight&hide_border=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=techvishnu&style=flat-square&color=blue)
