@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Vishnu&fontSize=90&fontColor=ffffff&desc=Building%20the%20Future%20with%20Gen%20AI%20%26%20Automation&descAlign=50&descAlignY=51" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Vishnu&fontSize=90&fontColor=ffffff&desc=Building%20the%20Future%20with%20Gen%20AI%20%26%20Automation&descAlign=50&descAlignY=51&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3366CC&center=true&vCenter=true&width=500&lines=Gen+AI+Developer;ServiceNow+ITSM+Specialist;Python+Automation+Expert;Vibecoding+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3366CC&center=true&vCenter=true&width=500&lines=Gen+AI+Developer;ServiceNow+ITSM+Specialist;Python+Automation+Expert;Vibecoding+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
