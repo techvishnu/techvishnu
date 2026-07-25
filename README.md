@@ -7,4 +7,4 @@ Interested in Linux, software development, and gaming.
 - Building projects with web technologies
 - Exploring Linux and open-source software
 
-[Portfolio](https://algokid.in) · [Website](https://techvishnu.in) · [App](https://minimalplatter.app)
+[Personal Website](https://techvishnu.in) · [App](https://minimalplatter.app)
