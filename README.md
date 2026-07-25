@@ -1,10 +1,11 @@
 # Hi, I'm Vishnu
 
-Engineering student from India.  
-Interested in Linux, software development, and gaming.
+CS Grad from India.  
+Works in ServiceNow software development and Agentic AI solutions.
+Hobbies include gaming, fitness and vibe coding.
 
-- Learning data structures, algorithms, and computer science
-- Building projects with web technologies
-- Exploring Linux and open-source software
+- Building Cool Projects related to my interests with a personal touch
+- Catching Up with current trends in technology
+
 
 [Personal Website](https://techvishnu.in) · [App](https://minimalplatter.app)
